@@ -1,37 +1,17 @@
 {
   "author": "Johann Wolfgang Goethe",
-  "identifier": "goethe-faust-47e92aa",
+  "identifier": "goethe-faust-e9ca6e3",
   "languagecode": "cs",
   "modified": "2021-12-07T09:24:33.496Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Faust",
-  "revision": "47e92aa",
+  "revision": "e9ca6e3",
   "generatedAt": {
-    "date": "Tue Dec 07 2021 09:34:33 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638869673262
+    "date": "Tue Dec 07 2021 10:03:30 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1638871410705
   },
   "documents": [
-    {
-      "title": "Faust",
-      "file": "faust_001.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 0,
-      "prev": null,
-      "next": "faust_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
     {
       "title": "Faust",
       "file": "faust_002.html",
@@ -39,48 +19,8 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 1,
-      "prev": "faust_001.html",
-      "next": "faust_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Faust",
-      "file": "faust_003.html",
-      "words": 7,
-      "chars": 50,
-      "ideas": 3,
-      "role": "chapter",
-      "order": 2,
-      "prev": "faust_002.html",
-      "next": "faust_004.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Faust",
-      "file": "faust_004.html",
-      "words": 84,
-      "chars": 558,
-      "ideas": 7,
-      "role": "chapter",
-      "order": 3,
-      "prev": "faust_003.html",
+      "order": 0,
+      "prev": null,
       "next": "faust_005.html",
       "toc": [
         {
@@ -99,8 +39,8 @@
       "chars": 1097,
       "ideas": 33,
       "role": "chapter",
-      "order": 4,
-      "prev": "faust_004.html",
+      "order": 1,
+      "prev": "faust_002.html",
       "next": "faust_006.html",
       "toc": [
         {
@@ -119,7 +59,7 @@
       "chars": 6795,
       "ideas": 223,
       "role": "chapter",
-      "order": 5,
+      "order": 2,
       "prev": "faust_005.html",
       "next": "faust_007.html",
       "toc": [
@@ -135,11 +75,11 @@
     {
       "title": "Prolog v nebi • Faust",
       "file": "faust_007.html",
-      "words": 711,
-      "chars": 3841,
+      "words": 713,
+      "chars": 3909,
       "ideas": 135,
       "role": "chapter",
-      "order": 6,
+      "order": 3,
       "prev": "faust_006.html",
       "next": "faust_008.html",
       "toc": [
@@ -159,7 +99,7 @@
       "chars": 17,
       "ideas": 1,
       "role": "chapter",
-      "order": 7,
+      "order": 4,
       "prev": "faust_007.html",
       "next": "faust_009.html",
       "toc": [
@@ -175,11 +115,11 @@
     {
       "title": "Faust",
       "file": "faust_009.html",
-      "words": 25675,
-      "chars": 137830,
+      "words": 25721,
+      "chars": 139124,
       "ideas": 5436,
       "role": "chapter",
-      "order": 8,
+      "order": 5,
       "prev": "faust_008.html",
       "next": "faust_010.html",
       "toc": [
@@ -199,7 +139,7 @@
       "chars": 35,
       "ideas": 1,
       "role": "chapter",
-      "order": 9,
+      "order": 6,
       "prev": "faust_009.html",
       "next": "faust_011.html",
       "toc": [
@@ -215,11 +155,11 @@
     {
       "title": "PRVÉ DĚJSTVÍ • Faust",
       "file": "faust_011.html",
-      "words": 11563,
-      "chars": 62682,
+      "words": 11566,
+      "chars": 62791,
       "ideas": 2314,
       "role": "chapter",
-      "order": 10,
+      "order": 7,
       "prev": "faust_010.html",
       "next": "faust_012.html",
       "toc": [
@@ -235,11 +175,11 @@
     {
       "title": "DRUHÉ DĚJSTVÍ • Faust",
       "file": "faust_012.html",
-      "words": 11337,
-      "chars": 61883,
+      "words": 11350,
+      "chars": 62296,
       "ideas": 2341,
       "role": "chapter",
-      "order": 11,
+      "order": 8,
       "prev": "faust_011.html",
       "next": "faust_013.html",
       "toc": [
@@ -255,11 +195,11 @@
     {
       "title": "TŘETÍ DĚJSTVÍ • Faust",
       "file": "faust_013.html",
-      "words": 9683,
-      "chars": 53462,
+      "words": 9694,
+      "chars": 53916,
       "ideas": 1810,
       "role": "chapter",
-      "order": 12,
+      "order": 9,
       "prev": "faust_012.html",
       "next": "faust_014.html",
       "toc": [
@@ -279,7 +219,7 @@
       "chars": 36071,
       "ideas": 1222,
       "role": "chapter",
-      "order": 13,
+      "order": 10,
       "prev": "faust_013.html",
       "next": "faust_015.html",
       "toc": [
@@ -295,11 +235,11 @@
     {
       "title": "PÁTÉ DĚJSTVÍ • Faust",
       "file": "faust_015.html",
-      "words": 5711,
-      "chars": 31100,
-      "ideas": 1249,
+      "words": 5720,
+      "chars": 31342,
+      "ideas": 1250,
       "role": "chapter",
-      "order": 14,
+      "order": 11,
       "prev": "faust_014.html",
       "next": "faust_016.html",
       "toc": [
@@ -313,40 +253,40 @@
       ]
     },
     {
-      "title": "Faust",
+      "title": "Poznámky Otokara Fischera • Faust",
       "file": "faust_016.html",
       "words": 7031,
-      "chars": 48173,
+      "chars": 48177,
       "ideas": 155,
       "role": "chapter",
-      "order": 15,
+      "order": 12,
       "prev": "faust_015.html",
-      "next": "faust_017.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Poznámky Otokara Fischera",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Faust",
-      "file": "faust_017.html",
-      "words": 47,
-      "chars": 307,
-      "ideas": 12,
-      "role": "chapter",
-      "order": 16,
+      "title": "Tiráž • Faust",
+      "file": "colophon.html",
+      "words": 139,
+      "chars": 920,
+      "ideas": 23,
+      "role": "colophon",
+      "order": null,
       "prev": "faust_016.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tiráž",
           "id": null,
           "children": []
         }
@@ -355,14 +295,14 @@
   ],
   "totals": {
     "all": {
-      "words": 79944,
-      "chars": 443936,
-      "ideas": 14946
+      "words": 80028,
+      "chars": 446520,
+      "ideas": 14947
     },
     "chapters": {
-      "words": 79938,
-      "chars": 443901,
-      "ideas": 14942
+      "words": 79884,
+      "chars": 445570,
+      "ideas": 14921
     }
   }
 }

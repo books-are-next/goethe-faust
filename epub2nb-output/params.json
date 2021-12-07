@@ -10,7 +10,7 @@
       "publisherShort": "mkp"
     },
     "elements": {
-      "title": "MLP_uroven2_kapitola MLP_uroven1_cast ",
+      "title": "MLP_uroven2_kapitola MLP_uroven1_cast MLP_uroven1_zvlastni_pripady ",
       "subtitle": "",
       "h2": "",
       "h3": "",
@@ -20,11 +20,11 @@
       "hrAfter": "",
       "br": "",
       "brBefore": "",
-      "brAfter": "",
-      "blockquote": "",
-      "figure": "",
-      "em": "",
-      "strong": "",
+      "brAfter": "MLP_text_bez1radku MLP_text_bez1radku_-0-12- MLP_text_bez1radku_-12-0- MLP_text_bez1radku_-I-_-0-12- ",
+      "blockquote": "MLP_verse_drama MLP_verse_-0-12- ",
+      "figure": "MLP_obrazky ",
+      "em": "MLP_uroven3_nadpis  MLP_znak_kurziva_11b MLP_scenicke_poznamky ",
+      "strong": "MLP_uroven3_nadpis MLP_znak_tucne_11b MLP_prima_rec_bez_mezery MLP_prima_rec MLP_uroven4_nadpis MLP_uroven5_nadpis ",
       "remove": "",
       "ignore": ""
     },
@@ -32,12 +32,13 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "faust_001.md",
             "xhtml": "faust_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
@@ -49,7 +50,7 @@
             "id": 1,
             "role": "chapter",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -57,7 +58,7 @@
             "filename": "faust_003.md",
             "xhtml": "faust_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
@@ -67,7 +68,7 @@
             "filename": "faust_004.md",
             "xhtml": "faust_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
@@ -80,8 +81,9 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hiddenTitle": false,
-            "children": []
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Věnování"
           },
           {
             "filename": "faust_006.md",
@@ -91,7 +93,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Předehra na divadle"
           },
           {
             "filename": "faust_007.md",
@@ -101,7 +104,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Prolog v nebi"
           },
           {
             "filename": "faust_008.md",
@@ -111,17 +115,19 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "faust_009.md",
-            "xhtml": "faust_009.xhtml",
-            "id": 8,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
+            "children": [
+              {
+                "filename": "faust_009.md",
+                "xhtml": "faust_009.xhtml",
+                "id": 8,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": false,
+                "hiddenTitle": false,
+                "children": []
+              }
+            ],
+            "title": "PRVÝ DÍL TRAGÉDIE"
           },
           {
             "filename": "faust_010.md",
@@ -131,7 +137,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "DRUHÝ DÍL TRAGÉDIE V PĚTI DĚJSTVÍCH"
           },
           {
             "filename": "faust_011.md",
@@ -141,7 +148,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "PRVÉ DĚJSTVÍ"
           },
           {
             "filename": "faust_012.md",
@@ -151,7 +159,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "DRUHÉ DĚJSTVÍ"
           },
           {
             "filename": "faust_013.md",
@@ -161,7 +170,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "TŘETÍ DĚJSTVÍ"
           },
           {
             "filename": "faust_014.md",
@@ -171,7 +181,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "ČTVRTÉ DĚJSTVÍ"
           },
           {
             "filename": "faust_015.md",
@@ -181,7 +192,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "PÁTÉ DĚJSTVÍ"
           },
           {
             "filename": "faust_016.md",
@@ -191,13 +203,14 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Poznámky Otakara Fischera"
           },
           {
             "filename": "faust_017.md",
             "xhtml": "faust_017.xhtml",
             "id": 16,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
@@ -213,7 +226,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Johann Wolfgang Goethe",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-12-07T09:33:05.117Z"
+      "modified": "2021-12-07T10:02:04.394Z"
     },
     "chapters": [
       {
@@ -307,7 +320,7 @@
         "xhtml": "faust_015.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Poznámky Otokara Fischera",
         "subtitleSuggest": "",
         "filename": "faust_016.md",
         "xhtml": "faust_016.xhtml"
@@ -401,6 +414,6 @@
       "user": "books-are-next",
       "repo": "goethe-faust"
     },
-    "generatedAt": 1638869586640
+    "generatedAt": 1638871326209
   }
 }
