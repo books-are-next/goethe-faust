@@ -11,10 +11,7 @@ meta:
   languageCode: cs
   publisherShort: mkp
 readingOrder:
-  - faust_001.html
   - faust_002.html
-  - faust_003.html
-  - faust_004.html
   - faust_005.html
   - faust_006.html
   - faust_007.html
@@ -27,11 +24,47 @@ readingOrder:
   - faust_014.html
   - faust_015.html
   - faust_016.html
-  - faust_017.html
+  - colophon.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: faust_005.html
+        title: Věnování
+        hiddenTitle: true
+      - link: faust_006.html
+        title: Předehra na divadle
+        hiddenTitle: false
+      - link: faust_007.html
+        title: Prolog v nebi
+        hiddenTitle: false
+      - link: faust_008.html
+        title: PRVÝ DÍL TRAGÉDIE
+        hiddenTitle: false
+        children: []
+        listType: plain
+      - link: faust_010.html
+        title: DRUHÝ DÍL TRAGÉDIE V PĚTI DĚJSTVÍCH
+        hiddenTitle: false
+      - link: faust_011.html
+        title: PRVÉ DĚJSTVÍ
+        hiddenTitle: false
+      - link: faust_012.html
+        title: DRUHÉ DĚJSTVÍ
+        hiddenTitle: false
+      - link: faust_013.html
+        title: TŘETÍ DĚJSTVÍ
+        hiddenTitle: false
+      - link: faust_014.html
+        title: ČTVRTÉ DĚJSTVÍ
+        hiddenTitle: false
+      - link: faust_015.html
+        title: PÁTÉ DĚJSTVÍ
+        hiddenTitle: false
+      - link: faust_016.html
+        title: Poznámky Otakara Fischera
+        hiddenTitle: false
     isSection: true
+    listType: plain
 static:
   - style
   - scripts
