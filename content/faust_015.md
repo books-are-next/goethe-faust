@@ -1,5 +1,6 @@
 ---
 title: PÁTÉ DĚJSTVÍ
+contentType: prose
 ---
 
 **_Širý kraj_**
@@ -1569,4 +1570,4 @@ _MATER GLORIOSA krouží výšinami._
 > za věčným ženstvím jsme  
 > neseni výš.
 
-Finis.
+_Finis._

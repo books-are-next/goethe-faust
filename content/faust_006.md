@@ -1,5 +1,6 @@
 ---
 title: Předehra na divadle
+contentType: prose
 ---
 
 _ŘEDITEL, divadelní BÁSNÍK, KOMIK_

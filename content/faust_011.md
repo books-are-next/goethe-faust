@@ -1,5 +1,6 @@
 ---
 title: PRVÉ DĚJSTVÍ
+contentType: prose
 ---
 
 **_Půvabná krajina_**
