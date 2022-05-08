@@ -1,5 +1,6 @@
 ---
 title: DRUHÉ DĚJSTVÍ
+contentType: prose
 ---
 
 **_Vysoce klenutý, těsný gotický pokoj_**

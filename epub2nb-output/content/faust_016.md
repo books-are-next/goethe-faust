@@ -1,5 +1,6 @@
 ---
 title: Poznámky Otokara Fischera
+contentType: prose
 ---
 
 K překladu Goethova „Fausta“ přistupuje naše literatura po něko­likáté. Z r. 1863 je šťavnaté, divadelně účinné ztlumočení prvého dílu Josefem Jiřím _Kolárem_, jehož mluva, byť zastaralá, uchovává si cenu průkopnického pokusu; roku 1890 vyšel prvý díl ve vkusném převodu obezřelého Františka _Vlčka_; stejného data je přebásnění Jaroslava Vrchlického, jenž prvý si troufal zčeštiti oba díly a v obou vynikl jak důvěrným vcítěním, tak vynalézavostí rýmu, jak vybraným slovem, tak ušlechtilým vzletem skvělého básníka; filologickým rádcem byl Vrchlickému Arnošt _Kraus_.

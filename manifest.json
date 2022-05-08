@@ -1,15 +1,15 @@
 {
   "author": "Johann Wolfgang Goethe",
-  "identifier": "goethe-faust-e9ca6e3",
+  "identifier": "goethe-faust-bdc2af6",
   "languagecode": "cs",
   "modified": "2021-12-07T09:24:33.496Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Faust",
-  "revision": "e9ca6e3",
+  "revision": "bdc2af6",
   "generatedAt": {
-    "date": "Tue Dec 07 2021 10:03:30 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638871410705
+    "date": "Sun May 08 2022 17:24:29 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652030669312
   },
   "documents": [
     {
@@ -33,7 +33,7 @@
       ]
     },
     {
-      "title": "Faust",
+      "title": "Věnování • Faust",
       "file": "faust_005.html",
       "words": 204,
       "chars": 1097,
@@ -46,7 +46,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Věnování",
           "id": null,
           "children": []
         }

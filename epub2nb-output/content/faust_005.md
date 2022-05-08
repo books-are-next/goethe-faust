@@ -1,9 +1,8 @@
 ---
-title: ''
+title: Věnování
 hiddenTitle: true
+contentType: prose
 ---
-
-Věnování
 
 > Zas, chvějné postavy, mě oblétáte,  
 > jež mlád jsem zřel kdys kalným okem svým.  

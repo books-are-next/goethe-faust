@@ -10,7 +10,7 @@
       "publisherShort": "mkp"
     },
     "elements": {
-      "title": "MLP_uroven2_kapitola MLP_uroven1_cast MLP_uroven1_zvlastni_pripady ",
+      "title": "MLP_uroven2_kapitola MLP_uroven1_cast MLP_uroven1_zvlastni_pripady MLP_uroven2_basne",
       "subtitle": "",
       "h2": "",
       "h3": "",
@@ -23,7 +23,7 @@
       "brAfter": "MLP_text_bez1radku MLP_text_bez1radku_-0-12- MLP_text_bez1radku_-12-0- MLP_text_bez1radku_-I-_-0-12- ",
       "blockquote": "MLP_verse_drama MLP_verse_-0-12- ",
       "figure": "MLP_obrazky ",
-      "em": "MLP_uroven3_nadpis  MLP_znak_kurziva_11b MLP_scenicke_poznamky ",
+      "em": "MLP_uroven3_nadpis  MLP_znak_kurziva_11b MLP_scenicke_poznamky MLP_text_uprostred_-I-",
       "strong": "MLP_uroven3_nadpis MLP_znak_tucne_11b MLP_prima_rec_bez_mezery MLP_prima_rec MLP_uroven4_nadpis MLP_uroven5_nadpis ",
       "remove": "",
       "ignore": ""
@@ -82,8 +82,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": true,
-            "children": [],
-            "title": "Věnování"
+            "title": "Věnování",
+            "children": []
           },
           {
             "filename": "faust_006.md",
@@ -93,8 +93,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Předehra na divadle"
+            "title": "Předehra na divadle",
+            "children": []
           },
           {
             "filename": "faust_007.md",
@@ -104,8 +104,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Prolog v nebi"
+            "title": "Prolog v nebi",
+            "children": []
           },
           {
             "filename": "faust_008.md",
@@ -115,6 +115,7 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
+            "title": "PRVÝ DÍL TRAGÉDIE",
             "children": [
               {
                 "filename": "faust_009.md",
@@ -126,8 +127,7 @@
                 "hiddenTitle": false,
                 "children": []
               }
-            ],
-            "title": "PRVÝ DÍL TRAGÉDIE"
+            ]
           },
           {
             "filename": "faust_010.md",
@@ -137,8 +137,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "DRUHÝ DÍL TRAGÉDIE V PĚTI DĚJSTVÍCH"
+            "title": "DRUHÝ DÍL TRAGÉDIE V PĚTI DĚJSTVÍCH",
+            "children": []
           },
           {
             "filename": "faust_011.md",
@@ -148,8 +148,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "PRVÉ DĚJSTVÍ"
+            "title": "PRVÉ DĚJSTVÍ",
+            "children": []
           },
           {
             "filename": "faust_012.md",
@@ -159,8 +159,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "DRUHÉ DĚJSTVÍ"
+            "title": "DRUHÉ DĚJSTVÍ",
+            "children": []
           },
           {
             "filename": "faust_013.md",
@@ -170,8 +170,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "TŘETÍ DĚJSTVÍ"
+            "title": "TŘETÍ DĚJSTVÍ",
+            "children": []
           },
           {
             "filename": "faust_014.md",
@@ -181,8 +181,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "ČTVRTÉ DĚJSTVÍ"
+            "title": "ČTVRTÉ DĚJSTVÍ",
+            "children": []
           },
           {
             "filename": "faust_015.md",
@@ -192,8 +192,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "PÁTÉ DĚJSTVÍ"
+            "title": "PÁTÉ DĚJSTVÍ",
+            "children": []
           },
           {
             "filename": "faust_016.md",
@@ -203,8 +203,8 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Poznámky Otakara Fischera"
+            "title": "Poznámky Otakara Fischera",
+            "children": []
           },
           {
             "filename": "faust_017.md",
@@ -226,7 +226,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Johann Wolfgang Goethe",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-12-07T10:02:04.394Z"
+      "modified": "2021-02-19T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -254,7 +254,7 @@
         "xhtml": "faust_004.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Věnování",
         "subtitleSuggest": "",
         "filename": "faust_005.md",
         "xhtml": "faust_005.xhtml"
@@ -414,6 +414,6 @@
       "user": "books-are-next",
       "repo": "goethe-faust"
     },
-    "generatedAt": 1638871326209
+    "generatedAt": 1652030584740
   }
 }

@@ -1,5 +1,6 @@
 ---
 title: Prolog v nebi
+contentType: prose
 ---
 
 _HOSPODIN, nebeští zástupové, poté MEFISTOFELES. Vystoupí tré archandělů._

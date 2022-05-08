@@ -1,5 +1,6 @@
 ---
 title: ČTVRTÉ DĚJSTVÍ
+contentType: prose
 ---
 
 **_Velehory; tvrdé, zubaté vrcholy skal_**

@@ -1,5 +1,6 @@
 ---
 title: TŘETÍ DĚJSTVÍ
+contentType: prose
 ---
 
 **_Před Menelaovým palácem v Spartě_**
