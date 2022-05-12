@@ -48,7 +48,7 @@
             "filename": "faust_002.md",
             "xhtml": "faust_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hiddenTitle": false,
@@ -414,6 +414,6 @@
       "user": "books-are-next",
       "repo": "goethe-faust"
     },
-    "generatedAt": 1652030584740
+    "generatedAt": 1652351688578
   }
 }

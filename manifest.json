@@ -1,20 +1,38 @@
 {
-  "author": "Johann Wolfgang Goethe",
-  "identifier": "goethe-faust-bdc2af6",
-  "languagecode": "cs",
-  "modified": "2021-12-07T09:24:33.496Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Faust",
-  "revision": "bdc2af6",
+  "author": "Johann Wolfgang Goethe",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "goethe-faust-66daa44",
+  "revision": "66daa44",
+  "readingOrder": [
+    "promo.html",
+    "faust_005.html",
+    "faust_006.html",
+    "faust_007.html",
+    "faust_008.html",
+    "faust_009.html",
+    "faust_010.html",
+    "faust_011.html",
+    "faust_012.html",
+    "faust_013.html",
+    "faust_014.html",
+    "faust_015.html",
+    "faust_016.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Sun May 08 2022 17:24:29 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652030669312
+    "date": "Thu May 12 2022 10:45:13 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352313265
   },
   "documents": [
     {
-      "title": "Faust",
-      "file": "faust_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -22,25 +40,17 @@
       "order": 0,
       "prev": null,
       "next": "faust_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "Věnování • Faust",
+      "title": "Věnování",
       "file": "faust_005.html",
       "words": 204,
       "chars": 1097,
       "ideas": 33,
       "role": "chapter",
       "order": 1,
-      "prev": "faust_002.html",
+      "prev": "promo.html",
       "next": "faust_006.html",
       "toc": [
         {
@@ -53,7 +63,7 @@
       ]
     },
     {
-      "title": "Předehra na divadle • Faust",
+      "title": "Předehra na divadle",
       "file": "faust_006.html",
       "words": 1271,
       "chars": 6795,
@@ -73,7 +83,7 @@
       ]
     },
     {
-      "title": "Prolog v nebi • Faust",
+      "title": "Prolog v nebi",
       "file": "faust_007.html",
       "words": 713,
       "chars": 3909,
@@ -93,7 +103,7 @@
       ]
     },
     {
-      "title": "PRVÝ DÍL TRAGÉDIE • Faust",
+      "title": "PRVÝ DÍL TRAGÉDIE",
       "file": "faust_008.html",
       "words": 3,
       "chars": 17,
@@ -133,7 +143,7 @@
       ]
     },
     {
-      "title": "DRUHÝ DÍL TRAGÉDIE V PĚTI DĚJSTVÍCH • Faust",
+      "title": "DRUHÝ DÍL TRAGÉDIE V PĚTI DĚJSTVÍCH",
       "file": "faust_010.html",
       "words": 6,
       "chars": 35,
@@ -153,7 +163,7 @@
       ]
     },
     {
-      "title": "PRVÉ DĚJSTVÍ • Faust",
+      "title": "PRVÉ DĚJSTVÍ",
       "file": "faust_011.html",
       "words": 11566,
       "chars": 62791,
@@ -173,7 +183,7 @@
       ]
     },
     {
-      "title": "DRUHÉ DĚJSTVÍ • Faust",
+      "title": "DRUHÉ DĚJSTVÍ",
       "file": "faust_012.html",
       "words": 11350,
       "chars": 62296,
@@ -193,7 +203,7 @@
       ]
     },
     {
-      "title": "TŘETÍ DĚJSTVÍ • Faust",
+      "title": "TŘETÍ DĚJSTVÍ",
       "file": "faust_013.html",
       "words": 9694,
       "chars": 53916,
@@ -213,7 +223,7 @@
       ]
     },
     {
-      "title": "ČTVRTÉ DĚJSTVÍ • Faust",
+      "title": "ČTVRTÉ DĚJSTVÍ",
       "file": "faust_014.html",
       "words": 6605,
       "chars": 36071,
@@ -233,7 +243,7 @@
       ]
     },
     {
-      "title": "PÁTÉ DĚJSTVÍ • Faust",
+      "title": "PÁTÉ DĚJSTVÍ",
       "file": "faust_015.html",
       "words": 5720,
       "chars": 31342,
@@ -253,7 +263,7 @@
       ]
     },
     {
-      "title": "Poznámky Otokara Fischera • Faust",
+      "title": "Poznámky Otokara Fischera",
       "file": "faust_016.html",
       "words": 7031,
       "chars": 48177,
@@ -273,11 +283,11 @@
       ]
     },
     {
-      "title": "Tiráž • Faust",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 139,
-      "chars": 920,
-      "ideas": 23,
+      "words": 117,
+      "chars": 758,
+      "ideas": 16,
       "role": "colophon",
       "order": null,
       "prev": "faust_016.html",
@@ -295,9 +305,9 @@
   ],
   "totals": {
     "all": {
-      "words": 80028,
-      "chars": 446520,
-      "ideas": 14947
+      "words": 80006,
+      "chars": 446358,
+      "ideas": 14940
     },
     "chapters": {
       "words": 79884,

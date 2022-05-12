@@ -12,7 +12,7 @@ meta:
   languageCode: cs
   publisherShort: mkp
 readingOrder:
-  - faust_002.html
+  - promo.html
   - faust_005.html
   - faust_006.html
   - faust_007.html
