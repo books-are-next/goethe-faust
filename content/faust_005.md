@@ -13,6 +13,8 @@ contentType: prose
 > má prsa mladistvě se rozevlála  
 > tou parou kouzel, nad vámi jež sálá.
 
+  
+
 > Vy vracíte mi obraz mého máje  
 > a mnohý drahý stín se s vámi chví;  
 > jak stará, polodoznělá už báje,  
@@ -22,6 +24,8 @@ contentType: prose
 > i o těch dobrých, přede mnou kdo skláni,  
 > o krásné chvíle sudbou oklamáni.
 
+  
+
 > Již nenaslouchají mi při mém díle  
 > ty duše, jimž jsem prvé zpěvy pěl;  
 > již rozprášeno hemžení je milé  
@@ -30,6 +34,8 @@ contentType: prose
 > i jejich potlesk už mě rozsmutněl,  
 > a kdo mou píseň dříve rádi měli,  
 > ti, jsou-li živi, v svět se poztráceli.
+
+  
 
 > Mne touha, jíž jsem dávno odvyk, jímá,  
 > mne duchů vábí tiše vážná říš;  

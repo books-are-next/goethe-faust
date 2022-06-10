@@ -5,12 +5,11 @@ title: Tiráž
 Johann Wolfgang Goethe    
 Faust  
 Překlad Otokar Fischer  
-Ilustrace na obálce Josef Wenig  
 Redakce Jaroslava Bednářová  
 Vydala Městská knihovna v Praze  
 Mariánské nám. 1, 115 72 Praha 1  
 V MKP 2. elektronické vydání  
-1. vydání z 12. 5. 2022.
+1. vydání z 10. 6. 2022.
 
 ***
 
