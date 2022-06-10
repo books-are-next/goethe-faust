@@ -3,6 +3,8 @@ title: PRVÉ DĚJSTVÍ
 contentType: prose
 ---
 
+<section>
+
 **_Půvabná krajina_**
 
 _FAUST leží na trávníku, porostlém kvítím; unaven, nekliden, s touhou po spánku._
@@ -3010,3 +3012,5 @@ _Výbuch. FAUST leží na zemi. Duchové se rozplývají v dým._
 > nakonec by to odnesl sám čert.
 
 _Tma. Vřava._
+
+</section>

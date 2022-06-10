@@ -3,6 +3,8 @@ title: Poznámky Otokara Fischera
 contentType: prose
 ---
 
+<section>
+
 K překladu Goethova „Fausta“ přistupuje naše literatura po něko­likáté. Z r. 1863 je šťavnaté, divadelně účinné ztlumočení prvého dílu Josefem Jiřím _Kolárem_, jehož mluva, byť zastaralá, uchovává si cenu průkopnického pokusu; roku 1890 vyšel prvý díl ve vkusném převodu obezřelého Františka _Vlčka_; stejného data je přebásnění Jaroslava Vrchlického, jenž prvý si troufal zčeštiti oba díly a v obou vynikl jak důvěrným vcítěním, tak vynalézavostí rýmu, jak vybraným slovem, tak ušlechtilým vzletem skvělého básníka; filologickým rádcem byl Vrchlickému Arnošt _Kraus_.
 
 V prvém svazku našeho souboru přistoupil úryvkovitý „Urfaust“; jeho překlad (z r. 1925) je východiskem tohoto vydání celistvého, o němž pracováno 1927 a 1928. Zásady nového překladu (naznačené v Máchalovu sborníku 1925 – teď v knize Slovo a svět – v listu Národ. divadla z 31. března 1928 a v Lit. světě č. 17) vyžadovaly by podrobného zdůvodnění; zde budiž jen připomenuto, že překladatel vycházel z poznatků o Goethově slohu, na němž ve „Faustovi“ zdůrazňuje démoničnost a lidovost, básnickost a názornost, plastiku a dramatičnost; z těchto znaků vyplynula – při zásadních rozdílech němčiny a češtiny – řada podružných úchylek, podložených neustále uvědomovaným požadavkem věrnosti k duchu a celku, rytmu a smyslu. Cenné služby konala vědecká literatura, z níž s obzvláštním díkem buďtež jmenovány: komentář Ericha _Schmidta_ v 13. a 14. svazku Cottova jubilejního vydání (1904–1906); vydání G. _Witkowského_ (v Lipsku 1906); dva svazky Adolfa _Trendelenburga_ (v Berlíně a Lipsku 1921–22) s vysvětlivkami nejpodrobnějšími; poznámky Roberta _Petsche_ v 5. svazku vydání Bibliogr. Institut (1927), kde shrnuty veškery výtěžky nového bádání. O tyto a jiné, též novější, rozbory opírají se poznámky, sledující účel, aby zvlášť s 2. dílu bylo sňato neoprávněné odium „nesrozumitelnosti“. Svého druhu výkladem je arci (jmenovitě v částech filosofických a všude tam, kde text připouští různé chápání) překlad sám, jehož zásady a jednotlivosti prodiskutovány s V. _Jirátem_, E. A. _Saudkem_ aj. a který, snaže se o určitost a prostotu, chce sloužiti potřebám dnešního našeho čtenářstva, plně jsa si vědom nedokonalosti všeho tlumočnického počínání, jímž originál takové výše jako „Faust“ může být nahrazován leda přibližně a dočasně.
@@ -237,7 +239,9 @@ K definitivnímu textu „Fausta“ druží se řada důležitých paralipomen 
 > a není rovněž jednotné.  
 > A teď vás prosíme o hlučný potlesk, páni!
 
-  
+</section>
+
+<section>
 
 **Rozloučení**
 
@@ -250,7 +254,9 @@ K definitivnímu textu „Fausta“ druží se řada důležitých paralipomen 
 > Nuž, uzavřen buď kruh ten omezený,  
 > barbarstvím čar a kouzel přeplněný!
 
-  
+</section>
+
+<section>
 
 > Jak dobré stíny, jež nás provázely,  
 > tak onen démon zla buď zapuzen,  
@@ -269,7 +275,9 @@ K definitivnímu textu „Fausta“ druží se řada důležitých paralipomen 
 > My ctíme radostně a spravedlivě  
 > i antiku i to, čím dnešek živ je.
 
-  
+</section>
+
+<section>
 
 > Ó, šťasten, komu jara pohled smavý  
 > je obrodou, čí blaho v umění!  
@@ -279,3 +287,5 @@ K definitivnímu textu „Fausta“ druží se řada důležitých paralipomen 
 > jde stále dál, hlas přírody v něm zní,  
 > nechť, roven divé honbě, v lítém reji  
 > duch času rejdí sebesveřepěji.
+
+</section>

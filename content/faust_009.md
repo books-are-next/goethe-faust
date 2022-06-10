@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 **_Noc_**
 
 _Vysoko klenutý, úzký gotický pokoj.  
@@ -3151,7 +3153,9 @@ _Obrátí se ke stolu._
 
 Na nízkém krbu stojí nad ohněm veliký kotel. V páře, z něho vystupující, různé zjevy. U kotle sedí MOŘSKÁ KOČKA; míchá v něm a dbá, aby nepřekypěl. MOŘSKÝ KOCOUR s mláďaty sedí vedle a ohřívá se. Stěny a strop vyzdobeny přepodivným čarodějnickým nářadím.
 
-  
+</section>
+
+<section>
 
 _FAUST, MEFISTOFELES._
 
@@ -7518,3 +7522,5 @@ _Zmizí s FAUSTEM._
 ****HLAS** _(zevnitř, zanikaje)_:**
 
 > Jindro! Jindro!
+
+</section>

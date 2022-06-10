@@ -3,6 +3,8 @@ title: PÁTÉ DĚJSTVÍ
 contentType: prose
 ---
 
+<section>
+
 **_Širý kraj_**
 
 ****POUTNÍK**:**
@@ -1571,3 +1573,5 @@ _MATER GLORIOSA krouží výšinami._
 > neseni výš.
 
 _Finis._
+
+</section>

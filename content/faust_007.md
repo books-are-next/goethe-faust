@@ -3,6 +3,8 @@ title: Prolog v nebi
 contentType: prose
 ---
 
+<section>
+
 _HOSPODIN, nebeští zástupové, poté MEFISTOFELES. Vystoupí tré archandělů._
 
 ****RAFAEL**:**
@@ -176,3 +178,5 @@ _Nebesa se uzavrou, archandělé se rozptýlí._
 > a milerád ho vídám časem.  
 > Vždyť je to rozkošné, když velký pán  
 > tak lidsky ráčí hovořit i s ďasem.
+
+</section>
