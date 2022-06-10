@@ -3,6 +3,8 @@ title: DRUHÉ DĚJSTVÍ
 contentType: prose
 ---
 
+<section>
+
 **_Vysoce klenutý, těsný gotický pokoj_**
 
 _kdys FAUSTŮV; nezměněn._
@@ -3104,3 +3106,5 @@ _GALATEA se blíží na voze z mušlí._
 > Tajům zdar všech zemních skrýší!  
 > Velebeni v slávě své,  
 > všichni čtyři živlové!
+
+</section>

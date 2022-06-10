@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: prose
 ---
 
+<section>
+
 > Zas, chvějné postavy, mě oblétáte,  
 > jež mlád jsem zřel kdys kalným okem svým.  
 > Zda zachytím vás aspoň tentokráte?  
@@ -13,7 +15,9 @@ contentType: prose
 > má prsa mladistvě se rozevlála  
 > tou parou kouzel, nad vámi jež sálá.
 
-  
+</section>
+
+<section>
 
 > Vy vracíte mi obraz mého máje  
 > a mnohý drahý stín se s vámi chví;  
@@ -24,7 +28,9 @@ contentType: prose
 > i o těch dobrých, přede mnou kdo skláni,  
 > o krásné chvíle sudbou oklamáni.
 
-  
+</section>
+
+<section>
 
 > Již nenaslouchají mi při mém díle  
 > ty duše, jimž jsem prvé zpěvy pěl;  
@@ -35,7 +41,9 @@ contentType: prose
 > a kdo mou píseň dříve rádi měli,  
 > ti, jsou-li živi, v svět se poztráceli.
 
-  
+</section>
+
+<section>
 
 > Mne touha, jíž jsem dávno odvyk, jímá,  
 > mne duchů vábí tiše vážná říš;  
@@ -45,3 +53,5 @@ contentType: prose
 > mé přísné srdce zjihlo, ztichlo již.  
 > To vše, co mé je, v dálkách zřím jak v snění,  
 > a zmizelé se ve skutečnost mění.
+
+</section>

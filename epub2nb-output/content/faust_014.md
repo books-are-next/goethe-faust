@@ -3,6 +3,8 @@ title: ČTVRTÉ DĚJSTVÍ
 contentType: prose
 ---
 
+<section>
+
 **_Velehory; tvrdé, zubaté vrcholy skal_**
 
 _Přilétne mrak, přilíná a snáší se na výčnělek skály. Pak se rozdělí._
@@ -1620,3 +1622,5 @@ _Odejde._
 ****CÍSAŘ** _(sám)_:**
 
 > To celé říše své bych takhle moh se vzdáti!
+
+</section>

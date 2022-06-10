@@ -3,6 +3,8 @@ title: TŘETÍ DĚJSTVÍ
 contentType: prose
 ---
 
+<section>
+
 **_Před Menelaovým palácem v Spartě_**
 
 _Vystoupí HELENA a sbor zajatých Trójanek, PANTHALIS, vůdkyně sboru._
@@ -2332,3 +2334,5 @@ _Odejde._
 > nový mok by uložen byl, vyprázdní se starý měch!
 
 _Opona. FORKYAS v proscéniu se obrovitě vztyčí, sestoupí však s koturnů, odhrne masku a závoj a stojí tu v podobě MEFISTOFELA, jenž, bylo-li by třeba, může přidati epilog s komentářem._
+
+</section>

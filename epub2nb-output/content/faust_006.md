@@ -3,6 +3,8 @@ title: Předehra na divadle
 contentType: prose
 ---
 
+<section>
+
 _ŘEDITEL, divadelní BÁSNÍK, KOMIK_
 
 ****ŘEDITEL**:**
@@ -249,3 +251,5 @@ _ŘEDITEL, divadelní BÁSNÍK, KOMIK_
 > celičkým kruhem stvoření,  
 > a s rozvahou vám bude spěti  
 > nebesy na svět, světem do podsvětí.
+
+</section>
