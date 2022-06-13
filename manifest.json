@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "goethe-faust-61b297c",
-  "revision": "61b297c",
+  "identifier": "goethe-faust-a68413e",
+  "revision": "a68413e",
   "readingOrder": [
     "promo.html",
     "faust_005.html",
@@ -26,8 +26,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Sat Jun 11 2022 11:59:12 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654948752702
+    "date": "Mon Jun 13 2022 21:54:25 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655157265259
   },
   "documents": [
     {
@@ -86,7 +86,7 @@
       "title": "Prolog v nebi",
       "file": "faust_007.html",
       "words": 713,
-      "chars": 3909,
+      "chars": 3867,
       "ideas": 135,
       "role": "chapter",
       "order": 3,
@@ -126,7 +126,7 @@
       "title": "Faust",
       "file": "faust_009.html",
       "words": 25721,
-      "chars": 139124,
+      "chars": 138424,
       "ideas": 5436,
       "role": "chapter",
       "order": 5,
@@ -166,7 +166,7 @@
       "title": "PRVÉ DĚJSTVÍ",
       "file": "faust_011.html",
       "words": 11566,
-      "chars": 62791,
+      "chars": 62719,
       "ideas": 2314,
       "role": "chapter",
       "order": 7,
@@ -186,7 +186,7 @@
       "title": "DRUHÉ DĚJSTVÍ",
       "file": "faust_012.html",
       "words": 11350,
-      "chars": 62296,
+      "chars": 62046,
       "ideas": 2341,
       "role": "chapter",
       "order": 8,
@@ -206,7 +206,7 @@
       "title": "TŘETÍ DĚJSTVÍ",
       "file": "faust_013.html",
       "words": 9694,
-      "chars": 53916,
+      "chars": 53610,
       "ideas": 1810,
       "role": "chapter",
       "order": 9,
@@ -246,7 +246,7 @@
       "title": "PÁTÉ DĚJSTVÍ",
       "file": "faust_015.html",
       "words": 5720,
-      "chars": 31342,
+      "chars": 31200,
       "ideas": 1250,
       "role": "chapter",
       "order": 11,
@@ -285,9 +285,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 79,
-      "chars": 538,
-      "ideas": 7,
+      "words": 112,
+      "chars": 727,
+      "ideas": 15,
       "role": "colophon",
       "order": null,
       "prev": "faust_016.html",
@@ -305,13 +305,13 @@
   ],
   "totals": {
     "all": {
-      "words": 79968,
-      "chars": 446138,
-      "ideas": 14931
+      "words": 80001,
+      "chars": 444815,
+      "ideas": 14939
     },
     "chapters": {
       "words": 79884,
-      "chars": 445570,
+      "chars": 444058,
       "ideas": 14921
     }
   }

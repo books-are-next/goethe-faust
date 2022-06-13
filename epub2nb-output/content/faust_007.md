@@ -90,11 +90,11 @@ _HOSPODIN, nebeští zástupové, poté MEFISTOFELES. Vystoupí tré archanděl�
 
 ****MEFISTOFELES**:**
 
->                          Doktora?
+>              Doktora?
 
 ****HOSPODIN**:**
 
->                                            Jej, mého sluhu!
+>              Jej, mého sluhu!
 
 ****MEFISTOFELES**:**
 

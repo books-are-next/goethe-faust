@@ -1241,7 +1241,7 @@ _FURIE._
 
 ****CHLAPEC VOZATAJ**:**
 
->                                             Stát!  
+>             Stát!  
 > V letu, oři, zarazte se,  
 > v otěžích zas zastavte se,  
 > zkroťte se, když pokrotím vás,  
@@ -1266,7 +1266,7 @@ _FURIE._
 
 ****HLASATEL**:**
 
->                 Nelze zapírat:  
+>             Nelze zapírat:  
 > předně krásný jsi a mlád.
 
 > Ne jinoch; posud chlapecké máš rysy;  
@@ -2285,7 +2285,7 @@ _FAUST, MEFISTOFELES_
 
 ****FAUST**:**
 
->                                Mluv rychle, co je s ní?  
+>              Mluv rychle, co je s ní?  
 > Odhalím nerad vyšší tajemství. —  
 > Bohyně trůní mocně v osamění,  
 > vůkol nich prostoru ni času není;  
@@ -2294,11 +2294,11 @@ _FAUST, MEFISTOFELES_
 
 ****FAUST** _(vyděšen)_:**
 
->                             Co? Matky!
+>             Co? Matky!
 
 ****MEFISTOFELES**:**
 
->                                                    Mrazí tě?
+>              Mrazí tě?
 
 ****FAUST**:**
 
@@ -2317,7 +2317,7 @@ _FAUST, MEFISTOFELES_
 
 ****MEFISTOFELES**:**
 
->                                   Cesta? Ne!  
+>             Cesta? Ne!  
 > Nikdo tam nevkročil, tam vkročit není lze;  
 > nikdo tam neprosil, prosba tam platna není.  
 > Jsi připraven? Ni závor tam ni bran,  
@@ -2370,7 +2370,7 @@ _FAUST, MEFISTOFELES_
 
 ****FAUST**:**
 
->                               Nač drobný nástroj ten?
+>             Nač drobný nástroj ten?
 
 ****MEFISTOFELES**:**
 
@@ -2437,7 +2437,7 @@ _FAUST učiní klíčem rozhodný velitelský posunek._
 
 ****MEFISTOFELES** _(dívá se naň)_:**
 
->                                          Ano, tak!  
+>              Ano, tak!  
 > Trojnožka půjde za klíčem, a pak,  
 > povznášen štěstím, stoupat počneš hned.  
 > Než matky vzhlédnou, s ní tu budeš zpět.  
@@ -2502,7 +2502,7 @@ _CÍSAŘ a knížata. Ruch dvora._
 
 ****MEFISTOFELES**:**
 
->                      Škoda, bílá tvářička,  
+>              Škoda, bílá tvářička,  
 > žíhaná v máji jako kočička. —  
 > Jazýčky ropuší, k nim potěr dát,  
 > v úplňku vyrobit z nich destilát,  
@@ -2538,7 +2538,7 @@ _CÍSAŘ a knížata. Ruch dvora._
 
 ****MEFISTOFELES**:**
 
->                         Jste vyhojena již.  
+>             Jste vyhojena již.  
 > Teď zatančit si můžeš dosyta,  
 > pod stolem s milým nožkou mluvit smíš.
 
@@ -2566,7 +2566,7 @@ _CÍSAŘ a knížata. Ruch dvora._
 
 ****MEFISTOFELES** _(rozhorlen)_:**
 
->                                              Čest, komu čest!  
+>              Čest, komu čest!  
 > Ten oharek, to poklad není malý,  
 > z kacířské hranice to jest,  
 > jaké jsme dříve pilněj zažíhali.
@@ -2806,7 +2806,7 @@ _FAUST vystupuje na druhé straně proscénia._
 
 ****NEJSTARŠÍ**:**
 
->                                                Dech jeho mládí!  
+>              Dech jeho mládí!  
 > Z efebských údů dýchá ambrosie  
 > a sladkost vůkol povětřím se lije.
 
@@ -2892,7 +2892,7 @@ _Vystoupí Helena._
 
 ****MEFISTOFELES**:**
 
->                                                                Klid!  
+>              Klid!  
 > Čiň přízrak, co mu libo! Nech ho být!
 
 ****DVOŘAN**:**
@@ -2971,7 +2971,7 @@ _Vystoupí Helena._
 
 ****FAUST**:**
 
->                                       Zadrž! Neslyšíš?  
+>             Zadrž! Neslyšíš?  
 > Ztřeštěný smělče, troufáš si? Nic dál!
 
 ****MEFISTOFELES**:**

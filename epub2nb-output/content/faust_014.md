@@ -138,7 +138,7 @@ _Přiťapá sedmimílová bota, za ní druhá. Sestoupí MEFISTOFELES, boty posp
 
 ****MEFISTOFELES**:**
 
->               To není těžká věc.  
+>             To není těžká věc.  
 > Já bych si vybral metropol,  
 > břich státu, vezmeš-li to kol a kol:  
 > uliček, štítů klikatina,  
@@ -364,7 +364,7 @@ _Z dálky, zprava, za diváky bubny a válečná hudba._
 
 ****MEFISTOFELES**:**
 
->                                Však to vyšlo z nich;  
+>              Však to vyšlo z nich;  
 > dbali jen o svůj vypasený břich.  
 > Víc nežli jiných jejich je to dílo.  
 > Tak odboj rost, neb žehnáno mu bylo.  
@@ -1069,7 +1069,7 @@ _Odejde s VRCHNÍM GENERÁLEM do stanu._
 
 ****MEFISTOFELES**:**
 
->                              Je to již! —  
+>              Je to již! —  
 > Hej, černí kmotři, v službě čilí,  
 > k horskému oku! Pozdravte tam víly  
 > a přelud vln si na nich vyprostež:  
