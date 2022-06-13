@@ -639,7 +639,7 @@ _HELENA, zotavivši se, stojí zas uprostřed._
 
 ****FORKYAS**:**
 
->                                               Neoznačil? Hrůzná zvěst!
+>             Neoznačil? Hrůzná zvěst!
 
 ****HELENA**:**
 
@@ -647,7 +647,7 @@ _HELENA, zotavivši se, stojí zas uprostřed._
 
 ****FORKYAS**:**
 
->                                               Tys ta oběť, královno!
+>             Tys ta oběť, královno!
 
 ****HELENA**:**
 
@@ -659,11 +659,11 @@ _HELENA, zotavivši se, stojí zas uprostřed._
 
 ****SBOR**:**
 
->                           Hrůza! Hrůza!
+>             Hrůza! Hrůza!
 
 ****FORKYAS**:**
 
->                                                      Padnout musíš sekyrou.
+>              Padnout musíš sekyrou.
 
 ****HELENA**:**
 
@@ -671,7 +671,7 @@ _HELENA, zotavivši se, stojí zas uprostřed._
 
 ****FORKYAS**:**
 
->                                         Je to nevyhnutelné.
+>             Je to nevyhnutelné.
 
 ****SBOR**:**
 
@@ -679,7 +679,7 @@ _HELENA, zotavivši se, stojí zas uprostřed._
 
 ****FORKYAS**:**
 
->                                                        Ona skoná královsky.  
+>              Ona skoná královsky.  
 > Vy však na vysokém trámu, který střechu podpírá,  
 > budete se vedle sebe jako drozdi třepetat.
 
@@ -825,7 +825,7 @@ _Zatleská. U brány se objevují zakuklení trpaslíci a jmou se rychle prov�
 
 ****FORKYAS**:**
 
->                         Ne špatně! Zamlouvá se mi.  
+>             Ne špatně! Zamlouvá se mi.  
 > Je čilý, smělý, krásně urostlý to muž;  
 > a rozumný, jak mezi Řeky málo jich.  
 > Lid jeho zvou sic barbarským, však nemyslím,  
@@ -853,7 +853,7 @@ _Zatleská. U brány se objevují zakuklení trpaslíci a jmou se rychle prov�
 
 ****FORKYAS**:**
 
->                            Vždyť už Aias nes,  
+>              Vždyť už Aias nes,  
 > jak víte, svinutého hada na štítě.  
 > Též před Thébami každý ze sedmi měl znak,  
 > jenž jeho štítu dával mocnou významnost.  
@@ -871,7 +871,7 @@ _Zatleská. U brány se objevují zakuklení trpaslíci a jmou se rychle prov�
 
 ****SBOR**:**
 
->                              Jsou též tanečníci tam?
+>              Jsou též tanečníci tam?
 
 ****FORKYAS**:**
 
@@ -881,7 +881,7 @@ _Zatleská. U brány se objevují zakuklení trpaslíci a jmou se rychle prov�
 
 ****HELENA**:**
 
->                                                             Aj co!  
+>             Aj co!  
 > To nepatří sem! Řekni slovo poslední!
 
 ****FORKYAS**:**
@@ -891,7 +891,7 @@ _Zatleská. U brány se objevují zakuklení trpaslíci a jmou se rychle prov�
 
 ****SBOR**:**
 
->                                                                Vyslov to,  
+>              Vyslov to,  
 > ach, řekni „ano“, zachraň sebe, zachraň nás!
 
 ****HELENA**:**
@@ -938,7 +938,7 @@ _V dálce polnice; sbor se vyděsí._
 
 ****FORKYAS**:**
 
->                 Toť zřejmé! Ona před očima zemře vám.  
+>             Toť zřejmé! Ona před očima zemře vám.  
 > Vy tam uvnitř doděláte. Ne, vám nelze pomoci.
 
 _Pauza._
@@ -1354,7 +1354,7 @@ _Odejde._
 
 ****HELENA**:**
 
->                                                — kdo stejně plá.
+>              — kdo stejně plá.
 
 ****FAUST**:**
 
@@ -1363,7 +1363,7 @@ _Odejde._
 
 ****HELENA**:**
 
->                                                    — je blaženství.
+>              — je blaženství.
 
 ****FAUST**:**
 
@@ -1372,7 +1372,7 @@ _Odejde._
 
 ****HELENA**:**
 
->                                           Rukou mou.
+>             Rukou mou.
 
 ****SBOR**:**
 
@@ -1658,11 +1658,11 @@ _Dějiště se úplně změní. O řadu skalních slují opírají se zavřená
 
 ****SBOR**:**
 
->                                                    Jak, tam uvnitř?
+>              Jak, tam uvnitř?
 
 ****FORKYAS****:****
 
->                                                                                         Odloučeni  
+>             Odloučeni  
 > od světa; mne jedinou jen povolali k tiché službě.  
 > Poctěna, já pomáhala, leč, jak slušno důvěrnici,  
 > po jiném se ohlížejíc, působnosti léků znalá,  

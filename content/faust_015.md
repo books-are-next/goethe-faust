@@ -292,7 +292,7 @@ _Náklad se odnáší._
 
 ****FAUST**:**
 
->                                 Zlořečené zde!  
+>             Zlořečené zde!  
 > To právě trýzní mě a štve.  
 > Tys obratný, i chci ti říci,  
 > co mi tak hnusné, čím dál víc.  
@@ -510,7 +510,7 @@ _Vystoupí čtvero šedivých žen._
 
 ****DRUHÁ**:**
 
->                                     Mé jméno je Hlad.
+>             Mé jméno je Hlad.
 
 ****TŘETÍ**:**
 
@@ -518,7 +518,7 @@ _Vystoupí čtvero šedivých žen._
 
 ****ČTVRTÁ**:**
 
->                                        Mé jméno je Strast.
+>              Mé jméno je Strast.
 
 ****VE TŘECH**:**
 
@@ -531,7 +531,7 @@ _Vystoupí čtvero šedivých žen._
 
 ****HLAD**:**
 
->                                                Já v pouhé nic.
+>              Já v pouhé nic.
 
 ****STRAST**:**
 
@@ -594,7 +594,7 @@ _V hloubi vzrušen._
 
 ****STAROST**:**
 
->                          Já odpovídám: Je!
+>              Já odpovídám: Je!
 
 ****FAUST**:**
 
@@ -602,7 +602,7 @@ _V hloubi vzrušen._
 
 ****STAROST**:**
 
->                                    Jsem zkrátka zde.
+>              Jsem zkrátka zde.
 
 ****FAUST**:**
 
@@ -610,7 +610,7 @@ _V hloubi vzrušen._
 
 ****STAROST**:**
 
->                   Ne. Jsem, kde místo mé.
+>             Ne. Jsem, kde místo mé.
 
 ****FAUST** _(prudce se vzchopí, ale pak se ovládne a řekne sám sobě)_:**
 
@@ -799,11 +799,11 @@ _Pochodně._
 
 ****MEFISTOFELES**:**
 
->                     Zde!
+>             Zde!
 
 ****FAUST**:**
 
->                               Slyš: buď jak buď,  
+>             Slyš: buď jak buď,  
 > dělnictva houfy chci mít větší;  
 > sliby je verbuj, žoldem, péčí,  
 > plať, lákej, trestej, k práci nuť!  
@@ -860,12 +860,12 @@ _FAUST sklesne nazpět, LEMUŘI ho zachytí a položí na zemi._
 
 ****SBOR**:**
 
->                                 Je tich. Noc mlčí z orloje.  
+>             Je tich. Noc mlčí z orloje.  
 > Rafie padá.
 
 ****MEFISTOFELES**:**
 
->                       Padá! Dokonáno je.
+>             Padá! Dokonáno je.
 
 ****SBOR**:**
 
@@ -873,7 +873,7 @@ _FAUST sklesne nazpět, LEMUŘI ho zachytí a položí na zemi._
 
 ****MEFISTOFELES**:**
 
->                                          Ten hloupý zvuk!  
+>              Ten hloupý zvuk!  
 > Cože to slovo značit má?  
 > Čas minul — Ryzí nic — Ta nuda naprostá!  
 > Co vůbec platno, věčně tvořit!  

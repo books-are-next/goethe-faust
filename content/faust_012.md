@@ -115,7 +115,7 @@ _Zatáhne za zvonec, jenž vydá ječivý, pronikavý zvuk, až se zatřesou sí
 
 ****FAMULUS**:**
 
->                                  Jsem rád, že znám vám jsem.
+>              Jsem rád, že znám vám jsem.
 
 ****MEFISTOFELES**:**
 
@@ -267,7 +267,7 @@ _FAMULUS odejde. MEFISTOFELES usedne s důstojnou vážností._
 
 ****BAKALÁŘ**:**
 
->                                             Či špatný chlap!  
+>             Či špatný chlap!  
 > Kdepak se najde jaký učitel,  
 > jenž přímo do očí by pravdu děl!  
 > Zná žertem, vážně krátit, rozváděti,  
@@ -426,7 +426,7 @@ _Tiše._
 
 ****WAGNER** _(tišeji)_:**
 
->                  Člověk je zde vyráběn.
+>              Člověk je zde vyráběn.
 
 ****MEFISTOFELES**:**
 
@@ -522,7 +522,7 @@ _MEFISTOFELOVI._
 
 ****MEFISTOFELES**:**
 
->               Dost! Radš otázka buď rozřešena,  
+>             Dost! Radš otázka buď rozřešena,  
 > proč se tak špatně snáší muž a žena!  
 > Tím si už lidé hlavy nalámali!  
 > Zde třeba práce, jak ji chce ten malý.
@@ -533,7 +533,7 @@ _MEFISTOFELOVI._
 
 ****MEFISTOFELES** _(ukazuje na postranní dveře)_:**
 
->                                   Dar svůj osvědč tady!
+>             Dar svůj osvědč tady!
 
 ****WAGNER** _(neustále zíraje do zkumavky)_:**
 
@@ -547,7 +547,7 @@ _Postranní dveře se otevrou, je vidět FAUSTA, ležícího na lůžku._
 
 _Zkumavka vyklouzne WAGNEROVI z rukou, vznáší se nad FAUSTEM a osvětluje ho._
 
->                          V pustém háji! — Čiré, jasné  
+>              V pustém háji! — Čiré, jasné  
 > tam vody jsou. Hle, svlékají se ženy;  
 > nejrozkošnější! — Ach, jak je to krásné!  
 > Zjev jedné nejkrásněj však ozářený.  
@@ -574,7 +574,7 @@ _Zkumavka vyklouzne WAGNEROVI z rukou, vznáší se nad FAUSTEM a osvětluje h
 
 ****HOMUNKULUS**:**
 
->                                To věřím! Ze severu,  
+>              To věřím! Ze severu,  
 > ty, zrozen z mlh a v popském šeru,  
 > ty, z doby rytířů — nu, jak  
 > moh by být svobodný tvůj zrak!
@@ -596,7 +596,7 @@ _Na FAUSTA._
 
 ****MEFISTOFELES**:**
 
->                                    To po chuti též mně je.
+>              To po chuti též mně je.
 
 ****HOMUNKULUS**:**
 
@@ -664,7 +664,7 @@ _Na FAUSTA._
 
 ****HOMUNKULUS**:**
 
->                                Pan strýček stydlivý je?  
+>              Pan strýček stydlivý je?  
 > Ne? Tak jen slůvko: babky z Thesálie!  
 > To se mu jistě ve sluch vryje.
 
@@ -685,7 +685,7 @@ _Na FAUSTA._
 
 ****WAGNER** _(úzkostlivě)_:**
 
->                                  A co já?
+>              A co já?
 
 ****HOMUNKULUS**:**
 
@@ -704,7 +704,7 @@ _Na FAUSTA._
 
 ****WAGNER** _(zarmoucen)_:**
 
->                        Buď zdráv! Ach, srdce mi to láme,  
+>              Buď zdráv! Ach, srdce mi to láme,  
 > mám strach, že nikdy už se neshledáme.
 
 ****MEFISTOFELES**:**
@@ -801,7 +801,7 @@ _Vzduchoplavci, ve výšce._
 
 ****HOMUNKULUS**:**
 
->                   To neumíme povědět,  
+>             To neumíme povědět,  
 > však zde to patrně lze vyzvědět.  
 > Ve spěchu, než se počne dnít,  
 > choď si a pátrej plamen od plamene:  
@@ -922,7 +922,7 @@ _Vzdálí se._
 
 ****MEFISTOFELES**:**
 
->                                              Nevím sám.
+>              Nevím sám.
 
 ****SFINGA**:**
 
@@ -952,7 +952,7 @@ _Vzdálí se._
 
 ****DRUHÝ NOH** _(hrčí ještě víc)_:**
 
->                                Přináší jen spor.
+>              Přináší jen spor.
 
 ****OBA**:**
 
@@ -966,7 +966,7 @@ _Vzdálí se._
 
 ****SFINGA** _(mírně)_:**
 
->                    Nu, zůstaň, libo-li ti;  
+>              Nu, zůstaň, libo-li ti;  
 > však sám už zatoužíš se vytratiti.  
 > Tam, kde jsi doma, vedeš si snad zdatně;  
 > však tady, tuším, už ti málem špatně.
@@ -1263,7 +1263,7 @@ _FAUST se vzdálí._
 
 ****FAUST**:**
 
->                                 Ó, zadrž v běhu svém!
+>             Ó, zadrž v běhu svém!
 
 ****CHIRON**:**
 
@@ -1271,7 +1271,7 @@ _FAUST se vzdálí._
 
 ****FAUST**:**
 
->                                 Tak mě s sebou vem!
+>             Tak mě s sebou vem!
 
 ****CHIRON**:**
 
@@ -1391,7 +1391,7 @@ _FAUST se vzdálí._
 
 ****CHIRON**:**
 
->                     Na hřbetě já směl ji nésti.
+>             Na hřbetě já směl ji nésti.
 
 ****FAUST**:**
 
@@ -1430,7 +1430,7 @@ _FAUST se vzdálí._
 
 ****CHIRON**:**
 
->                                  Filologové  
+>              Filologové  
 > zmátli as tvoje výpočty jak své.  
 > V bájích to s kráskou bývá prazvláštní:  
 > básník, jak libo mu, si vede s ní.  
@@ -1527,7 +1527,7 @@ _FAUST se vzdálí._
 
 ****CHIRON**:**
 
->                      Noci rej a šum  
+>              Noci rej a šum  
 > ho zavál v tajemný tvůj dům.  
 > Viz, šílenství mu z očí svítí.  
 > Helenu, Helenu chce míti!  
@@ -2125,7 +2125,7 @@ _HOMUNKULOVI._
 
 ****THALES**:**
 
->                                     Ne, můj synu!  
+>             Ne, můj synu!  
 > U malých je i malost činů,  
 > u velkých by též malý vzrost.  
 > Hleď, jeřábů jak hrozí mrak  
@@ -2308,7 +2308,7 @@ _Odejdou._
 
 ****FORKYADY**:**
 
->                Pomlč už a nedělej nám chuti!  
+>              Pomlč už a nedělej nám chuti!  
 > K ničemu není to tvé vybídnutí;  
 > jsme děti noci, půlnoc vládne námi,  
 > cizí jsme všem a sotva sobě známy.
@@ -2325,11 +2325,11 @@ _Odejdou._
 
 ****JEDNA Z FORKYAD**:**
 
->                                Nu? Jde to?
+>              Nu? Jde to?
 
 ****OSTATNÍ DVĚ**:**
 
->                                                      Zkusmo. Snad.  
+>              Zkusmo. Snad.  
 > Leč zub ni oko nemožno mu dát.
 
 ****MEFISTOFELES**:**
@@ -2350,11 +2350,11 @@ _Odejdou._
 
 ****FORKYADY**:**
 
->                                     Dobrá!
+>             Dobrá!
 
 ****MEFISTOFELES** _(z profilu vypadá jako Forkyada)_:**
 
->                                                    Hleďte přec:  
+>              Hleďte přec:  
 > Chaosu milovaný zplozenec!
 
 ****FORKYADY**:**
@@ -2684,7 +2684,7 @@ _NEREOVNY a TRITONI odplují._
 
 ****PROTEUS** _(mluví břichem, teď zblízka, teď z dálky)_:**
 
->                                   Jsem zde! Jsem tu!
+>             Jsem zde! Jsem tu!
 
 ****THALES**:**
 
@@ -2698,7 +2698,7 @@ _NEREOVNY a TRITONI odplují._
 
 ****THALES** _(tiše HOMUNKULOVI)_:**
 
->                        Je zcela blízko. Zasviť jen!  
+>              Je zcela blízko. Zasviť jen!  
 > Zvědavost zrovna rybí má;  
 > ať v cokoli je proměněn,  
 > plameny hned se přiláká.
@@ -2846,7 +2846,7 @@ _Rhodští Telchinové na hippokampech a mořských dracích, třímajíce Nept
 
 _Promění se v delfína._
 
->                                     Vzhůru, dím.  
+>             Vzhůru, dím.  
 > Dosáhneš, čeho srdce žádá.  
 > Pojď, já tě vezmu na svá záda  
 > a s oceánem zasnoubím.
@@ -3011,7 +3011,7 @@ _GALATEA se blíží na voze z mušlí._
 
 ****GALATEA**:**
 
->                                       Ó štěstí, zde být!  
+>             Ó štěstí, zde být!  
 > Vy delfíni, stůjte! Chci na otce zřít.
 
 ****NEREUS**:**

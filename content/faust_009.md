@@ -163,7 +163,7 @@ _Uchopí knihu a vyřkne tajuplné znamení ducha. Vyšlehne rudý pla­men, DU
 
 ****FAUST** _(odvraceje se)_:**
 
->                    Příliš příšerné…
+>              Příliš příšerné…
 
 ****DUCH**:**
 
@@ -173,7 +173,7 @@ _Uchopí knihu a vyřkne tajuplné znamení ducha. Vyšlehne rudý pla­men, DU
 
 ****FAUST**:**
 
->                  Ach, nesnesu tě, ne!
+>              Ach, nesnesu tě, ne!
 
 ****DUCH**:**
 
@@ -1342,7 +1342,7 @@ _MEFISTOFELES vystoupí za kamny, zatím co mlha padá; je oděn v úbor kočov
 
 ****MEFISTOFELES**:**
 
->                         Na to by se neměl ptát,  
+>             Na to by se neměl ptát,  
 > kdo k slovu chová pohrdání,  
 > kdo věcí podstatu chce znát,  
 > na hony vzdálen jalového zdání.
@@ -1358,7 +1358,7 @@ _MEFISTOFELES vystoupí za kamny, zatím co mlha padá; je oděn v úbor kočov
 
 ****MEFISTOFELES**:**
 
->                                        Té síly díl jsem já,  
+>              Té síly díl jsem já,  
 > jež, chtíc vždy páchat zlo, vždy dobro vykoná.
 
 ****FAUST**:**
@@ -1651,7 +1651,7 @@ _FAUST, MEFISTOFELES._
 
 ****MEFISTOFELES**:**
 
->                    Musíš to třikrát opakovat.
+>              Musíš to třikrát opakovat.
 
 ****FAUST**:**
 
@@ -1884,7 +1884,7 @@ _FAUST, MEFISTOFELES._
 
 ****MEFISTOFELES**:**
 
->                            Já přijímám.
+>              Já přijímám.
 
 ****FAUST**:**
 
@@ -2015,7 +2015,7 @@ _FAUST, MEFISTOFELES._
 
 ****MEFISTOFELES**:**
 
->                      Toť krásné sice,  
+>              Toť krásné sice,  
 > a přec mám jedno soužení;  
 > čas krátký, dlouhé umění.  
 > Což, neměl byste poučit se?  
@@ -2083,7 +2083,7 @@ _FAUST, MEFISTOFELES._
 
 ****MEFISTOFELES**:**
 
->                           Půjdem. Jakby ne!  
+>             Půjdem. Jakby ne!  
 > V jaképak jsi to mučírně?  
 > Tohle je život? zde se trudit  
 > a sebe sám i žáky nudit?  
@@ -2434,7 +2434,7 @@ _FAUST vystoupí._
 
 ****MEFISTOFELES**:**
 
->                                         Kam je ti libo. Hned.  
+>             Kam je ti libo. Hned.  
 > Zhlédneme malý a pak velký svět.  
 > To můžeš, nadšený a vděčný,  
 > tam gratis kurs mít užitečný.
@@ -2491,7 +2491,7 @@ _Pitka veselých kumpánů._
 
 ****BRANDER**:**
 
->                      Ty prase na druhou!
+>              Ty prase na druhou!
 
 ****FROSCH**:**
 
@@ -2505,7 +2505,7 @@ _Pitka veselých kumpánů._
 
 ****ALTMAYER**:**
 
->                         Je po mně, na mou duši!  
+>             Je po mně, na mou duši!  
 > He! vatu sem! Ten chlap mi trhá uši.
 
 ****SIEBEL**:**
@@ -2520,7 +2520,7 @@ _Pitka veselých kumpánů._
 
 ****ALTMAYER**:**
 
->                              Á! tara lara da!
+>              Á! tara lara da!
 
 ****FROSCH**:**
 
@@ -2706,7 +2706,7 @@ _Vystoupí FAUST a MEFISTOFELES._
 
 ****SIEBEL**:**
 
->                                            My zdravíme vás též.
+>              My zdravíme vás též.
 
 _Tiše, ze strany se dívaje na MEFISTOFELA._
 
@@ -2742,7 +2742,7 @@ _Uklání se FROSCHOVI._
 
 ****SIEBEL**:**
 
->                                              Ten vtipnou kaši jed!
+>              Ten vtipnou kaši jed!
 
 ****FROSCH**:**
 
@@ -2769,7 +2769,7 @@ _Uklání se FROSCHOVI._
 
 ****MEFISTOFELES**:**
 
->                                          Kolik chcete.
+>              Kolik chcete.
 
 ****SIEBEL**:**
 
@@ -2885,7 +2885,7 @@ _Zpívá._
 
 ****BRANDER**:**
 
->                                 Nač, optat-li se smím?  
+>             Nač, optat-li se smím?  
 > Snad nemáte ty sudy přede dveřmi?
 
 ****ALTMAYER**:**
@@ -2927,7 +2927,7 @@ _Zpívá._
 
 ****BRANDER**:**
 
->                        Šampaňského chci,  
+>              Šampaňského chci,  
 > a ať je pěkně šumící!
 
 _MEFISTOFELES navrtá stůl; jeden z pijáků zatím zhotovil voskové zátky a ucpal jimi otvory._
@@ -3041,7 +3041,7 @@ _SIEBLOVI._
 
 ****SIEBEL**:**
 
->                               Pometlo!  
+>             Pometlo!  
 > Jdeš na nás, hrubče, z téhle strany?
 
 ****BRANDER**:**
@@ -3054,7 +3054,7 @@ _SIEBLOVI._
 
 ****SIEBEL**:**
 
->                   Čáry! Jen ho zab!  
+>             Čáry! Jen ho zab!  
 > Je mimo zákon tenhle chlap!
 
 _Tasí nože a ženou se na MEFISTOFELA._
@@ -3077,7 +3077,7 @@ _V úžase na sebe pohlížejí._
 
 ****SIEBEL**:**
 
->                       A hrozny před nosem?
+>             A hrozny před nosem?
 
 ****BRANDER**:**
 
@@ -3103,7 +3103,7 @@ _Zmizí s FAUSTEM, chlapíci se trhnou od sebe._
 
 ****FROSCH**:**
 
->                      Tvůj že nos to byl?
+>              Tvůj že nos to byl?
 
 ****BRANDER** _(SIEBLOVI)_:**
 
@@ -3185,7 +3185,7 @@ _FAUST, MEFISTOFELES._
 
 ****MEFISTOFELES**:**
 
->                               Je zdarma připraven,  
+>             Je zdarma připraven,  
 > lze bez kejklů i lékaře jej míti:  
 > jen do rolí si vyjdi ven  
 > a kopat začni tam a rýti,  
@@ -3708,7 +3708,7 @@ _Vystoupí MEFISTOFELES._
 
 ****FAUST**:**
 
->                     Co tudy šla, jak jdeš.
+>             Co tudy šla, jak jdeš.
 
 ****MEFISTOFELES**:**
 
@@ -3796,7 +3796,7 @@ _Vystoupí MEFISTOFELES._
 
 ****MEFISTOFELES**:**
 
->                                              To ne!  
+>              To ne!  
 > Ona si zajde k sousedce.  
 > Však můžete sám zatím od srdce  
 > své příští oddávat se slasti  
@@ -3934,7 +3934,7 @@ _Nadzvedne záclonu u postele._
 
 ****MEFISTOFELES**:**
 
->                                Otázka dojemná!  
+>              Otázka dojemná!  
 > Chcete-li poklad uchovat si,  
 > to chtíče svého hodokvas  
 > odložte na vhodnější čas  
@@ -4102,7 +4102,7 @@ _FAUST v myšlenkách přechází, k němu MEFISTOFELES._
 
 ****MEFISTOFELES**:**
 
->                          Sedí teď neklidná  
+>              Sedí teď neklidná  
 > a neví, co si počít má.  
 > Na šperky myslí bdíc a sníc,  
 > na jejich dárce ještě víc.
@@ -4158,7 +4158,7 @@ _Pláče._
 
 ****MARTA**:**
 
->                                  Copak je?
+>              Copak je?
 
 ****MARKÉTA**:**
 
@@ -4348,7 +4348,7 @@ _Uctivě ustoupí před MARKÉTOU._
 
 ****MEFISTOFELES**:**
 
->                                 Já nad úmrtním lůžkem stál,  
+>             Já nad úmrtním lůžkem stál,  
 > nebyl to zrovna hnůj, jen sláma poloztlelá,  
 > však on co křesťan umíral  
 > a vroubků více měl, než zpověď slabik měla.  
@@ -4456,7 +4456,7 @@ _MARKÉTCE._
 
 ****MEFISTOFELES** _(pro sebe)_:**
 
->                                         Ty dítě nevinné!
+>             Ty dítě nevinné!
 
 _Nahlas._
 
@@ -4464,7 +4464,7 @@ _Nahlas._
 
 ****MARTA**:**
 
->                                   Jemine,  
+>             Jemine,  
 > o době smrti chci mít osvědčení,  
 > a kde a jak leží mé potěšení.  
 > Já na pořádek vždy si potrpěla,  
@@ -4480,7 +4480,7 @@ _Nahlas._
 
 ****MARTA**:**
 
->                                     Ach, ano!
+>             Ach, ano!
 
 ****MEFISTOFELES**:**
 
@@ -4523,7 +4523,7 @@ _FAUST, MEFISTOFELES._
 
 ****MEFISTOFELES**:**
 
->                    Však není to zadarmo.
+>              Však není to zadarmo.
 
 ****FAUST**:**
 
@@ -4578,7 +4578,7 @@ _FAUST, MEFISTOFELES._
 
 ****MEFISTOFELES**:**
 
->                        Tu písničku znám.  
+>              Tu písničku znám.  
 > A o pudu všemocném, o lásky pásce  
 > a o věrnosti a o věčné lásce,  
 > to také od srdce půjde vám?
@@ -4600,7 +4600,7 @@ _FAUST, MEFISTOFELES._
 
 ****FAUST**:**
 
->                                          Slyš a pamatuj,  
+>              Slyš a pamatuj,  
 > nenech mě mluvit zbůhdarma.  
 > Kdo chce mít pravdu stůj co stůj,  
 > ten pravdu má.  
@@ -4797,7 +4797,7 @@ _Přejdou._
 
 ****MEFISTOFELES**:**
 
->                                          Ó, toho věru žel mi.  
+>              Ó, toho věru žel mi.  
 > Však chápu přec — že laskava jste velmi.
 
 _Přejdou._
@@ -4836,13 +4836,13 @@ _Přejdou._
 
 ****MARKÉTA**:**
 
->                    Nechte jen.
+>              Nechte jen.
 
 _Utrhne kopretinu a otrhává lístek za lístkem._
 
 ****FAUST**:**
 
->                                            Jak? Kytici? Či co?
+>              Jak? Kytici? Či co?
 
 ****MARKÉTA**:**
 
@@ -4850,11 +4850,11 @@ _Utrhne kopretinu a otrhává lístek za lístkem._
 
 ****FAUST**:**
 
->                                 Jak?
+>             Jak?
 
 ****MARKÉTA**:**
 
->                                          Vám k smíchu bude to.
+>              Vám k smíchu bude to.
 
 _Otrhává lístky a šeptá si k tomu._
 
@@ -4908,7 +4908,7 @@ _MARKÉTA stiskne mu ruce, vymkne se mu a uteče; on stojí okamžik zamyšlen, 
 
 ****MEFISTOFELES**:**
 
->                      Ano, musíme už jít.
+>              Ano, musíme už jít.
 
 ****MARTA**:**
 
@@ -4922,12 +4922,12 @@ _MARKÉTA stiskne mu ruce, vymkne se mu a uteče; on stojí okamžik zamyšlen, 
 
 ****MEFISTOFELES**:**
 
->                                Letěl vzhůru alejí.  
+>              Letěl vzhůru alejí.  
 > Ti bujní motýlci!
 
 ****MARTA**:**
 
->                                   On, zdá se, přeje jí.
+>             On, zdá se, přeje jí.
 
 ****MEFISTOFELES**:**
 
@@ -4948,7 +4948,7 @@ _Políbí ji._
 
 ****MARKÉTA** _(ho obejme a líbá)_:**
 
->                      Nejdražší, už dávno miluji tě.
+>              Nejdražší, už dávno miluji tě.
 
 _MEFISTOFELES zaklepe._
 
@@ -4958,15 +4958,15 @@ _MEFISTOFELES zaklepe._
 
 ****MEFISTOFELES**:**
 
->                     Přítel!
+>             Přítel!
 
 ****FAUST**:**
 
->                                 Zvíře!
+>             Zvíře!
 
 ****MEFISTOFELES**:**
 
->                                             Čas je se rozloučiti!
+>             Čas je se rozloučiti!
 
 _MARTA přichází._
 
@@ -4974,7 +4974,7 @@ _MARTA přichází._
 
 ****FAUST**:**
 
->                                 Nesměl bych s vámi jíti?
+>             Nesměl bych s vámi jíti?
 
 ****MARKÉTA**:**
 
@@ -4982,16 +4982,16 @@ _MARTA přichází._
 
 ****FAUST**:**
 
->                                                         Tedy loučení?  
+>             Tedy loučení?  
 > Sbohem!
 
 ****MARTA**:**
 
->                    Adié!
+>              Adié!
 
 ****MARKÉTA**:**
 
->                             Na brzké vidění!
+>             Na brzké vidění!
 
 _FAUST a MEFISTOFELES odejdou._
 
@@ -5111,7 +5111,7 @@ _Odejde._
 
 _udělá posunek_
 
->                           nesmím říci nahlas, čím.
+>             nesmím říci nahlas, čím.
 
 ****FAUST**:**
 
@@ -5119,7 +5119,7 @@ _udělá posunek_
 
 ****MEFISTOFELES**:**
 
->                          To líbit se vám nechce.  
+>              To líbit se vám nechce.  
 > „Fuj“ v mravním patosu se vysloví tak lehce:  
 > tím cudný sluch se nesmí znesvětit,  
 > bez čeho nelze cudným srdcím být.  
@@ -5190,7 +5190,7 @@ _udělá posunek_
 
 ****MEFISTOFELES**:**
 
->                            Nač spílání a zášť!  
+>              Nač spílání a zášť!  
 > Tu živnost založila božská bytost:  
 > Bůh stvořiv kluky zvlášť a holky zvlášť,  
 > nám návod dal, jak dělat příležitost.  
@@ -5297,7 +5297,7 @@ _MARKÉTA, FAUST._
 
 ****FAUST**:**
 
->                                      Co mohu. Nuž?
+>              Co mohu. Nuž?
 
 ****MARKÉTA**:**
 
@@ -5321,7 +5321,7 @@ _MARKÉTA, FAUST._
 
 ****MARKÉTA**:**
 
->                       Proč bez moci tak jsem!  
+>             Proč bez moci tak jsem!  
 > Ty nemáš úcty ani k svátostem.
 
 ****FAUST**:**
@@ -5330,13 +5330,13 @@ _MARKÉTA, FAUST._
 
 ****MARKÉTA**:**
 
->                  Však neprahneš po jejich požehnání.  
+>              Však neprahneš po jejich požehnání.  
 > Kdy byls už v kostele, kdy u přijímání?  
 > Rci, věříš v Boha?
 
 ****FAUST**:**
 
->                                      Kdo smí se, dítě, zaříci:  
+>              Kdo smí se, dítě, zaříci:  
 > já věřím v Boha, jsem věřící —?  
 > Jen zkus, co od kněží či od mudrců zvíš:  
 > odpověď jejich ti zaznívá  
@@ -5402,7 +5402,7 @@ _MARKÉTA, FAUST._
 
 ****MARKÉTA**:**
 
->                 Bolí mne dávno již,  
+>             Bolí mne dávno již,  
 > že v téhleté společnosti dlíš.
 
 ****FAUST**:**
@@ -5470,7 +5470,7 @@ _MARKÉTA, FAUST._
 
 ****FAUST**:**
 
->                                   Ach, kdy se dožiji,  
+>             Ach, kdy se dožiji,  
 > že celou hodinku hruď moje na tvé buší,  
 > že v krev se vpíjí krev a duše v duši?
 
@@ -5513,7 +5513,7 @@ _Odejde._
 
 ****FAUST**:**
 
->                                          Zase jsi špehoval?
+>              Zase jsi špehoval?
 
 ****MEFISTOFELES**:**
 
@@ -5553,7 +5553,7 @@ _Odejde._
 
 ****FAUST**:**
 
->                                             Je to tvoje věc?
+>             Je to tvoje věc?
 
 ****MEFISTOFELES**:**
 
@@ -5582,7 +5582,7 @@ _MARKÉTKA a LÍZA se džbány._
 
 ****LÍZA**:**
 
->               No jak! Inu, smrdí to s ní.  
+>             No jak! Inu, smrdí to s ní.  
 > Krmí teď dva, když pije a jí.
 
 ****MARKÉTKA**:**
@@ -5610,7 +5610,7 @@ _MARKÉTKA a LÍZA se džbány._
 
 ****LÍZA**:**
 
->                                Jakápak nešťastnice!  
+>              Jakápak nešťastnice!  
 > Když v noci my sedaly u přeslice  
 > a matka nás dolů jít nenechala,  
 > ona tam se svým amantem stála.  
@@ -5631,7 +5631,7 @@ _MARKÉTKA a LÍZA se džbány._
 
 ****MARKÉTKA**:**
 
->                                 To není pěkné!
+>             To není pěkné!
 
 ****LÍZA**:**
 
@@ -5844,7 +5844,7 @@ _Zpívá k citeře._
 
 ****MEFISTOFELES**:**
 
->                                       Už je!
+>             Už je!
 
 ****VALENTIN**:**
 
@@ -5856,7 +5856,7 @@ _Zpívá k citeře._
 
 ****VALENTIN**:**
 
->                             To ďábel šermuje!  
+>             To ďábel šermuje!  
 > Co to má být? Mně ruka umdlévá.
 
 ****MEFISTOFELES** _(FAUSTOVI)_:**
@@ -5865,11 +5865,11 @@ _Zpívá k citeře._
 
 ****VALENTIN** _(klesá)_:**
 
->                        Běda!
+>              Běda!
 
 ****MEFISTOFELES**:**
 
->                                    Mamlas! Už ji má!  
+>              Mamlas! Už ji má!  
 > Pryč, horempádem! Jen ať jsme ti tam!  
 > Už rozléhá se děsný křik a řev.  
 > Já s policií skvěle smlouvat znám;  
@@ -5881,7 +5881,7 @@ _Zpívá k citeře._
 
 ****MARKÉTKA** _(u okna)_:**
 
->                          Sem světlo! Co tu je?
+>              Sem světlo! Co tu je?
 
 ****MARTA** _(ještě u okna)_:**
 
@@ -5901,7 +5901,7 @@ _Zpívá k citeře._
 
 ****LID**:**
 
->                              Tvé matky syn.
+>              Tvé matky syn.
 
 ****MARKÉTKA**:**
 
@@ -6286,13 +6286,13 @@ _FAUST, MEFISTOFELES._
 
 ****HLAS**:**
 
->                                 Vrch Ilsín já přelétla,  
+>             Vrch Ilsín já přelétla,  
 > sůvě tam do hnízda nahlédla.  
 > To byly oči!
 
 ****HLAS**:**
 
->                        Do pekla sjeď!  
+>              Do pekla sjeď!  
 > Co jezdíš jak zbrklá!
 
 ****HLAS**:**
@@ -6394,11 +6394,11 @@ _Snášejí se k zemi._
 
 ****FAUST** _(z dálky)_:**
 
->                      Zde!
+>              Zde!
 
 ****MEFISTOFELES**:**
 
->                               Co? Tams už oderván?  
+>             Co? Tams už oderván?  
 > To musím ukázat, že jsem tu pán.  
 > Čeládko sladká! Rarach! Couvni před ním!  
 > Zde, chyť se, doktore! a skokem jedním  
@@ -6550,7 +6550,7 @@ _Několika, kdož sedí u dohořívajících ohňů._
 
 ****MEFISTOFELES**:**
 
->                   Lilita. Jen okem po ní hoď.
+>             Lilita. Jen okem po ní hoď.
 
 ****FAUST**:**
 
@@ -6558,7 +6558,7 @@ _Několika, kdož sedí u dohořívajících ohňů._
 
 ****MEFISTOFELES**:**
 
->                     Prvá Adamova choť.  
+>             Prvá Adamova choť.  
 > Je nebezpečná krása jejích vlasů,  
 > té ozdoby, jíž nejvíc vyniká.  
 > Tou jestli dobude si mladíka,  
@@ -6680,11 +6680,11 @@ _FAUSTOVI, jenž vystoupil z kola._
 
 ****MEFISTOFELES**:**
 
->                                      Co?
+>              Co?
 
 ****FAUST**:**
 
->                                              Mefisto, co to zřím!  
+>              Mefisto, co to zřím!  
 > Spanilé bledé dítě o samotě v dáli!  
 > Sune se z místa krokem zdlouhavým;  
 > jde, ač jí nohu k noze přikovali.  
@@ -6734,7 +6734,7 @@ _FAUSTOVI, jenž vystoupil z kola._
 
 ****SLUŽEBNÝ DUCH**:**
 
->                  Započnem; hned pokyn dám.  
+>              Započnem; hned pokyn dám.  
 > Hra nová je. Ze sedmi poslední.  
 > Tolik jich hrát je u nás zvykem.  
 > Diletant byl jí dramatikem  
@@ -7250,7 +7250,7 @@ _Vyskočí. Okovy z ní spadnou._
 
 ****MARKÉTA**:**
 
->                      Ty! Znova to opakuj!
+>              Ty! Znova to opakuj!
 
 _Bere ho za ruku._
 
@@ -7269,7 +7269,7 @@ _Bere ho za ruku._
 
 ****MARKÉTA**:**
 
->                                       Ó, zůstaň, milý!  
+>             Ó, zůstaň, milý!  
 > Tak ráda prodlévám, kde dlíš.
 
 _Celuje ho._
@@ -7318,7 +7318,7 @@ _Odvrátí se od něho._
 
 ****MARKÉTA**:**
 
->                                 Ty zbavuješ mě pout,  
+>             Ty zbavuješ mě pout,  
 > já smím zas na tvém klíně spočinout,  
 > ale jak to, že se mne neštítíš?  
 > Koho chceš zachránit? Víš, koho? Víš?
