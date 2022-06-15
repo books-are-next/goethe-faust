@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "goethe-faust-a68413e",
-  "revision": "a68413e",
+  "identifier": "goethe-faust-30997ff",
+  "revision": "30997ff",
   "readingOrder": [
     "promo.html",
     "faust_005.html",
@@ -26,8 +26,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 13 2022 21:54:25 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655157265259
+    "date": "Wed Jun 15 2022 05:49:46 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655272186703
   },
   "documents": [
     {
@@ -285,8 +285,8 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 112,
-      "chars": 727,
+      "words": 126,
+      "chars": 834,
       "ideas": 15,
       "role": "colophon",
       "order": null,
@@ -305,8 +305,8 @@
   ],
   "totals": {
     "all": {
-      "words": 80001,
-      "chars": 444815,
+      "words": 80015,
+      "chars": 444922,
       "ideas": 14939
     },
     "chapters": {
