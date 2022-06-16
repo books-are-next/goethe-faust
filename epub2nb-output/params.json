@@ -7,7 +7,9 @@
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-12-07T09:24:33.496Z",
       "languageCode": "cs",
-      "publisherShort": "mkp"
+      "publisherShort": "mkp",
+      "contentType": "poetry",
+      "edition": "poezie"
     },
     "elements": {
       "title": "MLP_uroven2_kapitola MLP_uroven1_cast MLP_uroven1_zvlastni_pripady MLP_uroven2_basne",
@@ -414,6 +416,6 @@
       "user": "books-are-next",
       "repo": "goethe-faust"
     },
-    "generatedAt": 1655271290786
+    "generatedAt": 1655364162076
   }
 }

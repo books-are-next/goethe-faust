@@ -1,6 +1,6 @@
 ---
 title: PÁTÉ DĚJSTVÍ
-contentType: prose
+contentType: poetry
 ---
 
 <section>

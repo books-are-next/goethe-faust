@@ -1,6 +1,6 @@
 ---
 title: ČTVRTÉ DĚJSTVÍ
-contentType: prose
+contentType: poetry
 ---
 
 <section>

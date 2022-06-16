@@ -5,10 +5,11 @@
   "title": "Faust",
   "author": "Johann Wolfgang Goethe",
   "publisher": "Městská knihovna v Praze",
+  "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "goethe-faust-30997ff",
-  "revision": "30997ff",
+  "identifier": "goethe-faust-87f29f4",
+  "revision": "87f29f4",
   "readingOrder": [
     "promo.html",
     "faust_005.html",
@@ -26,8 +27,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Wed Jun 15 2022 05:49:46 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655272186703
+    "date": "Thu Jun 16 2022 07:30:02 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655364602491
   },
   "documents": [
     {
@@ -305,9 +306,9 @@
   ],
   "totals": {
     "all": {
-      "words": 80015,
-      "chars": 444922,
-      "ideas": 14939
+      "words": 80016,
+      "chars": 444928,
+      "ideas": 14940
     },
     "chapters": {
       "words": 79884,
