@@ -11,6 +11,8 @@ meta:
   modified: '2021-12-07T09:24:33.496Z'
   languageCode: cs
   publisherShort: mkp
+  contentType: poetry
+  edition: poezie
 readingOrder:
   - promo.html
   - faust_005.html

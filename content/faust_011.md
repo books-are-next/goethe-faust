@@ -1,6 +1,6 @@
 ---
 title: PRVÉ DĚJSTVÍ
-contentType: prose
+contentType: poetry
 ---
 
 <section>
