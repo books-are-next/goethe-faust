@@ -1,7 +1,7 @@
 ---
 title: Věnování
 hiddenTitle: true
-contentType: poetry
+contentType: drama
 ---
 
 <section>

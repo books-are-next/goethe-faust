@@ -1,6 +1,6 @@
 ---
 title: Předehra na divadle
-contentType: poetry
+contentType: drama
 ---
 
 <section>

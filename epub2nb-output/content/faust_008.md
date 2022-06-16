@@ -1,6 +1,6 @@
 ---
 title: PRVÝ DÍL TRAGÉDIE
-contentType: poetry
+contentType: drama
 ---
 
 
