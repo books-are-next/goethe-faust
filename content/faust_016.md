@@ -1,6 +1,6 @@
 ---
 title: Poznámky Otokara Fischera
-contentType: poetry
+contentType: drama
 ---
 
 <section>

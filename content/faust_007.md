@@ -1,6 +1,6 @@
 ---
 title: Prolog v nebi
-contentType: poetry
+contentType: drama
 ---
 
 <section>

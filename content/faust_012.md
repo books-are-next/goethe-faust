@@ -1,6 +1,6 @@
 ---
 title: DRUHÉ DĚJSTVÍ
-contentType: poetry
+contentType: drama
 ---
 
 <section>
