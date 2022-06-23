@@ -8,8 +8,8 @@
   "edition": "drama",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "goethe-faust-fddf76a",
-  "revision": "fddf76a",
+  "identifier": "goethe-faust-2887b8f",
+  "revision": "2887b8f",
   "readingOrder": [
     "promo.html",
     "faust_005.html",
@@ -27,8 +27,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 16 2022 11:59:37 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655380777662
+    "date": "Thu Jun 23 2022 10:04:27 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655978667297
   },
   "documents": [
     {
