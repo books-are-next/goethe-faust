@@ -27,7 +27,7 @@ readingOrder:
   - faust_014.html
   - faust_015.html
   - faust_016.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
