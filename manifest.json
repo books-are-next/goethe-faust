@@ -8,8 +8,8 @@
   "edition": "drama",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "goethe-faust-cc68a20",
-  "revision": "cc68a20",
+  "identifier": "goethe-faust-0155fea",
+  "revision": "0155fea",
   "readingOrder": [
     "promo.html",
     "faust_005.html",
@@ -27,8 +27,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 10:00:24 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657188024176
+    "date": "Thu Jul 21 2022 14:40:13 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658414413699
   },
   "documents": [
     {
@@ -287,7 +287,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 126,
-      "chars": 833,
+      "chars": 834,
       "ideas": 15,
       "role": "about",
       "order": null,
@@ -307,7 +307,7 @@
   "totals": {
     "all": {
       "words": 80016,
-      "chars": 444926,
+      "chars": 444927,
       "ideas": 14940
     },
     "chapters": {
