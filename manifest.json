@@ -8,8 +8,8 @@
   "edition": "drama",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "goethe-faust-0155fea",
-  "revision": "0155fea",
+  "identifier": "goethe-faust-b5a2231",
+  "revision": "b5a2231",
   "readingOrder": [
     "promo.html",
     "faust_005.html",
@@ -27,8 +27,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 21 2022 14:40:13 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658414413699
+    "date": "Thu Sep 29 2022 21:23:27 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664486607863
   },
   "documents": [
     {
